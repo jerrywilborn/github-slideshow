@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Post hoc ergo propter hoc
 Use the left arrow to go back!
